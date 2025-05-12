@@ -1,0 +1,21 @@
+customer_name,gender,age_group,location_id
+John Doe,M,18-25,1
+Jane Smith,F,26-35,2
+Alice Johnson,F,36-45,3
+Bob Brown,M,46-55,4
+Charlie Davis,M,56-65,5
+Diana Evans,F,18-25,6
+Evan Foster,M,26-35,7
+Fiona Green,F,36-45,8
+George Harris,M,46-55,9
+Hannah Ingram,F,56-65,10
+Ian Jones,M,18-25,11
+Julia King,F,26-35,12
+Kevin Lee,M,36-45,13
+Laura Miller,F,46-55,14
+Michael Nelson,M,56-65,15
+Nina Owens,F,18-25,16
+Oscar Perez,M,26-35,17
+Paula Quinn,F,36-45,18
+Quincy Roberts,M,46-55,19
+Rachel Scott,F,56-65,20
